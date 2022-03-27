@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ce15f817-0751-e420-3878-a57f59613f4e
 resourcetype: Document
 title: MIT1_040s09_sitevisit.pdf
 uid: 800223d2-d699-027d-23fe-1f180b4b1978
