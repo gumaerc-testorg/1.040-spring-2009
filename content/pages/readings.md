@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the required textbooks and recommended
+  readings listed by subject area.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
