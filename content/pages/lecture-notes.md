@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and lecture notes
+  from selected sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2f81220d-d8ca-9754-dae4-14614f6360bb
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec01))
+Introduction ({{% resource_link 42da6c0a-8a35-bb6c-9e0b-bb89ad429678 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction II ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec02))
+Introduction II ({{% resource_link 3c66a739-71f4-307a-1e44-7e4bf76e0c3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Introduction II ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec02))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Project organization and contracts ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec03))
+Project organization and contracts ({{% resource_link 43e42a65-280a-db7e-1607-da572a1d907c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +56,7 @@ Project organization and contracts ([PDF]({{< baseurl >}}/resources/mit1_040s09_
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Construction finance ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec04))
+Construction finance ({{% resource_link c4e76891-5e06-281c-df54-5c6e0d891a3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,9 +68,9 @@ Construction finance ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec04))
 
 
 Working the globe  
-Guest lecture: Fred Berger ([PDF - 1.4MB]({{< baseurl >}}/resources/mit1_040s09_lec05_berger)) (Courtesy of Fredric Berger and The Louis Berger Group, Inc. Used with permission.)
+Guest lecture: Fred Berger ({{% resource_link af00f636-0112-053c-4d61-240f384562bf "PDF - 1.4MB" %}}) (Courtesy of Fredric Berger and The Louis Berger Group, Inc. Used with permission.)
 
-Privatization ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec05))
+Privatization ({{% resource_link da12a122-28ae-2e5d-bd2b-b091280d164a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -76,7 +81,7 @@ Privatization ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec05))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Public-private partnerships in financing of infrastructure ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec06))
+Public-private partnerships in financing of infrastructure ({{% resource_link 914111f9-e2f6-1c07-4623-79bceaeb4dcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Public-private partnerships in financing of infrastructure ([PDF]({{< baseurl >}
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Private finance initiative ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec07))
+Private finance initiative ({{% resource_link 9d1193a2-d0de-3eef-27cf-7ee33d9ed810 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Private finance initiative ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec07))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Project finance ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec08))
+Project finance ({{% resource_link 46ef99ef-9338-6bcc-5545-ec9da006e6d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Project finance ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-How to get involved in private finance ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec09))
+How to get involved in private finance ({{% resource_link c121006f-1647-28ef-c626-64df80a587d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +154,7 @@ Risk management
 {{< tdclose >}}
 {{< tdopen >}}
 Project financial evaluation  
-Guest lecture: Massood Samii, Southern New Hampshire University ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec14)) (Courtesy of Massood Samii. Used with permission.)
+Guest lecture: Massood Samii, Southern New Hampshire University ({{% resource_link e777bd46-8526-f955-b706-7ab77bfaeae6 "PDF" %}}) (Courtesy of Massood Samii. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Guest lecture: Massood Samii, Southern New Hampshire University ([PDF]({{< baseu
 {{< tdclose >}}
 {{< tdopen >}}
 Cost benefit analysis  
-Guest lecture: Massood Samii, Southern New Hampshire University ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec15)) (Courtesy of Massood Samii. Used with permission.)
+Guest lecture: Massood Samii, Southern New Hampshire University ({{% resource_link e9c43ad9-1989-68e2-9859-e81185f01ba5 "PDF" %}}) (Courtesy of Massood Samii. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +185,7 @@ Guest lecture: Massood Samii, Southern New Hampshire University
 
 
 Capital program management  
-Guest lecture: Chris Gordon, Harvard University ([PDF - 9.8MB]({{< baseurl >}}/resources/mit1_040s09_lec17)) (Courtesy of Chris Gordon. Used with permission.)
+Guest lecture: Chris Gordon, Harvard University ({{% resource_link 87efcb48-04b6-3d13-3ace-57ea6e02dd36 "PDF - 9.8MB" %}}) (Courtesy of Chris Gordon. Used with permission.)
 
 Construction site visit
 
@@ -193,7 +198,7 @@ Construction site visit
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Project organization I ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec18))
+Project organization I ({{% resource_link e84c0512-ad2c-c532-6ccd-2214d6aaceca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +208,7 @@ Project organization I ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec18))
 {{< tdclose >}}
 {{< tdopen >}}
 The World of Skanksa and The Road Ahead  
-Guest lecture: Jim Becker, Skansa AB ([PDF - 3.7MB]({{< baseurl >}}/resources/mit1_040s09_lec19)) (Courtesy of Jim Becker. Used with permission.)
+Guest lecture: Jim Becker, Skansa AB ({{% resource_link 8d554e61-b09f-d14d-21ec-869f04c84d40 "PDF - 3.7MB" %}}) (Courtesy of Jim Becker. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +217,7 @@ Guest lecture: Jim Becker, Skansa AB ([PDF - 3.7MB]({{< baseurl >}}/resources/mi
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Project organization II ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec20))
+Project organization II ({{% resource_link 50c635f8-b3ea-e24b-da39-51321e473980 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +235,7 @@ Project control
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Project management engineering, procurement and construction ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec22))
+Project management engineering, procurement and construction ({{% resource_link 0f85ac66-3664-de82-79ae-ad58e1a664c6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +244,7 @@ Project management engineering, procurement and construction ([PDF]({{< baseurl 
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Identifying and covering risks—current trends ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec23))
+Identifying and covering risks—current trends ({{% resource_link 0c4cd7cd-e2dd-c0b7-6cdb-82c8d6f758eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +258,7 @@ Identifying and covering risks—current trends ([PDF]({{< baseurl >}}/resources
 Masdar City: Zero Carbon, Zero Waste: 'Someday is Today'  
 Guest lecture: Khaled Awad
 
-Project uncertainty management ([PDF]({{< baseurl >}}/resources/mit1_040s09_lec24))
+Project uncertainty management ({{% resource_link cdcbdfc7-50fe-20a9-bac3-3ec23a7358df "PDF" %}})
 
 
 {{< tdclose >}}

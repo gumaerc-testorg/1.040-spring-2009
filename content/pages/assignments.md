@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ce15f817-0751-e420-3878-a57f59613f4e
 ---
@@ -85,7 +89,7 @@ Turn in a short paper (roughly 5-10 pages) with regard to your analysis and comp
 
 {{< tdclose >}}
 {{< tdopen >}}
-AECOM Consult Team. "Case Studies of Transportation Public-Private Partnerships in the United States." Federal Highway Administration Report. July 7, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 7.1MB](https://www.fhwa.dot.gov/ipd/pdfs/p3/us_ppp_case_studies_final_report_7-7-07.pdf))
+AECOM Consult Team. "Case Studies of Transportation Public-Private Partnerships in the United States." Federal Highway Administration Report. July 7, 2007. ([PDF ‑ 7.1MB](https://www.fhwa.dot.gov/ipd/pdfs/p3/us_ppp_case_studies_final_report_7-7-07.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -100,7 +104,7 @@ Paper due Lec #20
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Site visit ([PDF]({{< baseurl >}}/resources/mit1_040s09_sitevisit))
+Site visit ({{% resource_link 800223d2-d699-027d-23fe-1f180b4b1978 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -116,4 +120,4 @@ Lec #17
   
  
 
-Additionally, students enrolled in the graduate subject 1.401J or ESD.081J are asked to complete a term project. The term project consists of a final report and in-class presentation providing a comprehensive review of an infrastructure engineering project of interest. Students must also submit a 1-2 page project proposal outlining their chosen topic. Due dates for the proposal and term project report are listed in the [calendar]({{< baseurl >}}/pages/syllabus#Calendar).
+Additionally, students enrolled in the graduate subject 1.401J or ESD.081J are asked to complete a term project. The term project consists of a final report and in-class presentation providing a comprehensive review of an infrastructure engineering project of interest. Students must also submit a 1-2 page project proposal outlining their chosen topic. Due dates for the proposal and term project report are listed in the {{% resource_link deaf85c9-18c7-1e67-0637-ac9dc0c5ab20 "calendar" "#Calendar" %}}.
