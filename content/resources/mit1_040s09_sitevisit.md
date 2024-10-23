@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about goals, roles, scenario, deliverable
   and preparation of the site visit.
-file: /courses/1-040-project-management-spring-2009/800223d2d699027d23fe1f180b4b1978_MIT1_040s09_sitevisit.pdf
+file: /ol-ocw-studio-app/courses/1-040-project-management-spring-2009/800223d2d699027d23fe1f180b4b1978_MIT1_040s09_sitevisit.pdf
 file_size: 65782
 file_type: application/pdf
 learning_resource_types:
