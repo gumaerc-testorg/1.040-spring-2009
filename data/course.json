@@ -40,11 +40,12 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Online Textbook",
+    "Open Textbooks",
     "Activity Assignments",
     "Written Assignments"
   ],
   "site_uid": "76845cd0-3748-4025-b5d6-bfb2fe49a22a",
   "site_short_id": "1.040-spring-2009",
+  "site_url_path": "courses/1-040-project-management-spring-2009",
   "title": "Course Metadata"
 }
